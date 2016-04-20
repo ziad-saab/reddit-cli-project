@@ -1,0 +1,16 @@
+{
+  "name": "reddit-cli",
+  "version": "1.0.0",
+  "description": "Reddit command-line browsing",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^1.0.2",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ziad Saab <ziad.saab@gmail.com>",
+  "license": "MIT"
+}
